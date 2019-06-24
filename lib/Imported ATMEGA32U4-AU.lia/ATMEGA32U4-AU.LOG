@@ -1,0 +1,27 @@
+PCAD Importer Log
+Project : ATMEGA32U4-AU.LibPkg
+
+Section : C:\Users\Noah Stephens\Downloads\ATMEGA32U4-AU.lia
+    Section : PCB Library - ATMEGA32U4-AU.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ATMEGA32U4-AU On Line 512
+            Warning - 1 : Skipping Token attachedSymbol On Line 979
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ATMEGA32U4-AU.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 130
+            Warning - 1 : Skipping Token layerContents On Line 140
+            Warning - 1 : Skipping Token layerContents On Line 325
+        EndSection
+
+        Section : Generating SCH Library - ATMEGA32U4-AU.SchLib
+        EndSection
+    EndSection
+EndSection

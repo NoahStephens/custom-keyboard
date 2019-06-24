@@ -1,0 +1,29 @@
+PCAD Importer Log
+Project : FA-128_32.0000MF20X-K5.LibPkg
+
+Section : C:\Users\Noah Stephens\dev\custom-keyboard\lib\FA-128_32.0000MF20X-K5.lia
+    Section : PCB Library - FA-128_32.0000MF20X-K5.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token FA-128_32.0000MF20X-K5 On Line 129
+            Warning - 1 : Skipping Token attachedSymbol On Line 196
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - FA-128_32.0000MF20X-K5.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token multiLayer On Line 96
+            Warning - 1 : Skipping Token layerContents On Line 102
+            Warning - 1 : Skipping Token layerContents On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 111
+            Warning - 1 : Skipping Token layerContents On Line 119
+        EndSection
+
+        Section : Generating SCH Library - FA-128_32.0000MF20X-K5.SchLib
+        EndSection
+    EndSection
+EndSection

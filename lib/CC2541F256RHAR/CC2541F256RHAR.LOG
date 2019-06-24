@@ -1,0 +1,31 @@
+PCAD Importer Log
+Project : CC2541F256RHAR.LibPkg
+
+Section : C:\Users\Noah Stephens\Downloads\CC2541F256RHAR.lia
+    Section : PCB Library - CC2541F256RHAR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token CC2541F256RHAR On Line 260
+            Warning - 1 : Skipping Token attachedSymbol On Line 847
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - CC2541F256RHAR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token padStyleDef On Line 21
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token multiLayer On Line 108
+            Warning - 1 : Skipping Token layerContents On Line 167
+            Warning - 1 : Skipping Token layerContents On Line 180
+            Warning - 1 : Skipping Token layerContents On Line 188
+            Warning - 1 : Skipping Token layerContents On Line 194
+            Warning - 1 : Skipping Token layerContents On Line 202
+        EndSection
+
+        Section : Generating SCH Library - CC2541F256RHAR.SchLib
+        EndSection
+    EndSection
+EndSection

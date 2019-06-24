@@ -28,3 +28,9 @@
 ## Key Pad
 
 - 21
+
+REF PCB LINKS
+
+- http://www.ti.com/lit/ug/tidu548/tidu548.pdf
+- https://github.com/ruiqimao/keyboard-pcb-guide
+- http://www.ti.com/lit/ds/swrs110d/swrs110d.pdf
